@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+footer {
+    background-color: #0d6efd;
+    padding: 5%;
+    color: white;
+}
+
+ul {
+    cursor: pointer;
+}
+
+
